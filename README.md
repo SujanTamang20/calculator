@@ -6,7 +6,9 @@ This project is a web-based calculator application designed to perform basic ari
 Features
 User Interface
 1.Main View: A clean and intuitive layout displaying the calculator with number and operator buttons.
+
 2.Display Screen: Shows the current input and previous operation, if any.
+
 3.Buttons: Includes buttons for digits (0-9), operators (+, -, *, /), clear, delete, and equals.
 
 Functionality
